@@ -14,7 +14,7 @@ pillow
 psutil
 py-tgcalls
 pytgcrypto
-kurigram==2.1.35
+https://github.com/KurimuzonAkuma/kurigram/archive/dev.zip
 python-dotenv
 pyyaml
 requests
@@ -26,5 +26,3 @@ yt-dlp
 youtube-search
 youtube-search-python
 py-yt-search
-
-
